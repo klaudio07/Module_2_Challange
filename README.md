@@ -12,14 +12,10 @@ Submission of Module 2 Challange
 ### Results
 1. *2017 Stock Analysis* 
 
-![GitHub Logo](/images/C:\Users\klaud\Desktop\Resources\2017 results.png)
-
 Most of the portfolio is performing very well giving high positive returns. only one stock TERP is performing negatively.
 Volume is useful to understant the liquidity of the stock, higher volume indicates more liquidity.
 
 2. *2018 Stock Analysis*
-
-![GitHub Logo](/images/C:\Users\klaud\Desktop\Resources\2018 results.png)
 
 Only ENPH and RUN have a positive return.Most of the stocks are bears. DQ which was one of the best performers in 2017 is actually a very bad investment in 2018.
 
